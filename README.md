@@ -32,6 +32,8 @@ A lightweight browser extension that adds a navigation panel to your AI chat too
 
 ### 🦊 Firefox
 
+[![Get the Add-on on Firefox](https://img.shields.io/badge/Firefox-Get%20the%20Add--on-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/ai-chat-navigator/)
+
 **Option A — Temporary install (easiest, no account needed)**
 
 > Best for trying it out. Note: temporary add-ons are removed when Firefox restarts.
